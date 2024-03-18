@@ -1,2 +1,1 @@
-Processing...
-
+Process completed.
